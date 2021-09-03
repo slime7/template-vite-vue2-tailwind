@@ -1,0 +1,28 @@
+{
+  "name": "template-vite-vue2-tailwind",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "tailwindcss": "^2.2.9",
+    "vue": "^2.6.12",
+    "vue-router": "^3.5.2",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.4",
+    "eslint": "7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-vue": "7.16.0",
+    "postcss": "^8.3.6",
+    "sass": "1.32.13",
+    "vite": "^2.0.5",
+    "vite-plugin-vue2": "^1.4.0",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
